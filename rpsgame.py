@@ -3,6 +3,7 @@ import random
 import itertools
 from prettytable import PrettyTable
 import tkinter as tk
+import sys, os
 from utils import *
 
 class Game():
